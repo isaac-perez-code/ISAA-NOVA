@@ -1,5 +1,5 @@
 
-<h1 align="center">🦈--Ellen Joe Bot MD--🦈</h1>
+<h1 align="center">🦈--ISAA-NOVA--🦈</h1>
 
 <p align="center">
   <img src="https://github.com/nevi-dev/nevi-dev/blob/main/xd/ezgif.com-video-to-gif-converter.gif?raw=true" alt="Ellen Joe Bot MD Preview" />
@@ -13,12 +13,12 @@
   <summary><b>☁️ 𝐀𝐜𝐥𝐚𝐫𝐚𝐜𝐢o𝐧 𝐥𝐞𝐠𝐚𝐥</b></summary>
 
 > 🚫 **Este proyecto NO está afiliado a WhatsApp ni WhatsApp LLC.**  
-> un bot hecho 100% independiente, la base del bot es de Yuki Suou. bot personalizado por **nevi-dev**.
+> un bot hecho 100% independiente, la base del bot es de Yuki Suou. bot personalizado por **Desarrollador de ISAA-NOVA**.
 </details>
 
 ---
 
-## 🧩 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞 Ellen
+## 🧩 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞 ISAA-NOVA 
 
 <details>
   <summary><b>🦈𝐓𝐨𝐝𝐨 𝐥𝐨 𝐪𝐮𝐞 𝐩𝐮𝐞𝐝𝐞 𝐡𝐚𝐜𝐞𝐫</b></summary>
@@ -53,52 +53,7 @@ href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><
 apt update && apt upgrade -y && pkg install proot-distro -y
 ```
 
-```bash
-proot-distro install ubuntu && proot-distro login ubuntu
-```
 
-```bash
-apt update && apt upgrade -y && apt install -y ca-certificates curl gnupg
-```
-
-```bash
-curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
-```
-
-```bash
-echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_20.x nodistro main" | tee /etc/apt/sources.list.d/nodesource.list
-```
-
-```bash
-apt update && apt upgrade && apt install -y git nodejs ffmpeg imagemagick yarn
-```
-
-```bash
-git clone https://github.com/nevi-dev/Ellen-Joe-Bot-MD && cd Ellen-Joe-Bot-MD
-```
-
-```bash
-rm -rf /usr/bin/yarn
-```
-
-```bash
-npm install -g yarn
-```
-
-```bash
-apt-get install build-essential
-```
-
-```bash
-yarn install && npm install && npm update
-```
-
-```bash
-npm start
-```
-
-> Cuando veas: (Y/I/N/O/D/Z) [default=N]  
-> Escribe **"y"** y presiona **ENTER**
 
 </details>
 
@@ -141,7 +96,7 @@ proot-distro login ubuntu
 > *Solo ejecuta proot-distro login ubuntu si en la consola no te sale root@localhost:*
 
 ```bash
-cd Ellen-Joe-Bot-MD && npm start
+cd ISAA-NOVA && npm start
 ```
 
 </details>
@@ -154,7 +109,7 @@ cd Ellen-Joe-Bot-MD && npm start
   <summary><b>🔑 edita el archivo y Agrega tu número como Owner</b></summary>
 
 ```bash
-cd Ellen-Joe-Bot-MD
+cd ISAA-NOVA 
 ```
 
 ```bash
@@ -172,34 +127,20 @@ nano settings.js
 <details>
   <summary><b>👥 Grupos Oficiales</b></summary>
 
-- 📢 [Canal Oficial](https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P)
-- 🌐 [Comunidad Global](https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR)
+- 📢 
+
 
 </details>
 
 <details>
   <summary><b>📞 Contacto</b></summary>
 
-- 📱 WhatsApp: 18096758983
+- 📱 WhatsApp: 51983569753
 
 </details>
 
 ---
 
-## **`🩵 AKIRAX HOST🩵`**
-<a href="https://home.akirax.net"><img src="https://qu.ax/bZYxO.jpg" height="100px"></a>
-</details>
-</details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- **Dash:** [`Aquí`](https://home.akirax.net)
-- **Panel:** [`Aquí`](https://console.akirax.net)
-
----
-
-# ✦ MAYAPI ─ La API Suprema de SoyMaycol ✦  
-
-![MAYAPI](https://mayapi.ooguy.com/favicon.png)  
 
 ┌─────◦(●￣(ｴ)￣●)◦─────┐  
 ★ Más de **53+ endpoints** listos para usar  
@@ -219,16 +160,13 @@ No te quedes fuera del futuro digital
 
 ---
 
-## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 Ellen Joe
+## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 ISAA-NOVA 
 
 
-<a href="https://github.com/nevi-dev"><img src="https://github.com/nevi-dev.png" width="250" height="250" alt="Nevi"/></a>
+<a href="https://github.com/isaac-perez-code"><img src="https://github.com/isaac-perez-code.png" width="250" height="250" alt="Isaac"/></a>
 
 ---
 
-### **🌺` Colaboradores Especiales `🌟**
-<a href="https://github.com/Dioneibi-rip" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="Dioneibi" style="border-radius: 50%;"/>
-</a>
+
 
 ---
